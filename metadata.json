@@ -1,0 +1,5 @@
+{
+  "name": "ScholarTrack",
+  "description": "A comprehensive academic tracking dashboard that allows students to log scores, visualize progress with interactive charts, and receive AI-powered study insights using Gemini.",
+  "requestFramePermissions": []
+}
